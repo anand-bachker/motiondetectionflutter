@@ -1,4 +1,4 @@
-# Easy Motion Visualizer
+# Twist Detector
 
 
 ## Getting Started
