@@ -1,6 +1,5 @@
-# revanthackathon
+# Easy Motion Visualizer
 
-A new Flutter project.
 
 ## Getting Started
 
